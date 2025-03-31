@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+title: À propos
 ---
 # Qui suis-je ?
 
@@ -12,5 +13,5 @@ order: 4
 # Valeurs et approche
 
 # Comment me contacter ?
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+
