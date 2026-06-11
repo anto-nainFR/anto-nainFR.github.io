@@ -19,7 +19,6 @@ title: Antonin's Blog # the main title
 # gems: [jekyll-mermaid]
 plugins:
   - jekyll-mermaid
-  - jekyll-redirect-from
 
 mermaid:
   src: "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
@@ -31,7 +30,8 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://anto-nain.com"
+baseurl: ""
 
 github:
   username: anto-nainFR # change to your GitHub username
