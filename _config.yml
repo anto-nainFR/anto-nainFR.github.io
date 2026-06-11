@@ -19,6 +19,7 @@ title: Antonin's Blog # the main title
 # gems: [jekyll-mermaid]
 plugins:
   - jekyll-mermaid
+  - jekyll-redirect-from
 
 mermaid:
   src: "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
