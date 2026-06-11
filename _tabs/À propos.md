@@ -4,58 +4,51 @@ icon: fas fa-info-circle
 order: 4
 title: À propos
 ---
-# French Part
 
-## Qui suis-je ?
-Hello, je m'appelle Antonin, je suis passionné par l'informatique, les mathématiques ainsi que la recherche opérationnelle et plein d'autres domaines. À ce jour (le 1er avril 2025), je suis toujours étudiant en dernière année de Master Informatique à l'Université de Picardie Jules Verne à Amiens, et compte continuer en thèse dans le domaine de l'optimisation, la résolution de problèmes difficiles et la recherche opérationnelle. 
+# Who am I?
+Hello, my name is Antonin. I am passionate about computer science, mathematics, operational research, and many other fields. I am currently a PhD student at the University of Picardie Jules Verne in Amiens, working in the fields of optimization, solving hard problems, and operational research.
 
-J'ai créé ce blog pour partager mes découvertes, mes réflexions et mes expériences dans ces domaines que je trouve passionnants. Que tu sois débutant, curieux ou expert, j'espère que tu trouveras ici des ressources intéressantes et des sujets qui éveilleront ta curiosité !
+I created this blog to share my discoveries, thoughts, and experiences in these fields that I find fascinating. Whether you are a beginner, simply curious, or an expert, I hope you will find interesting resources here and topics that will spark your curiosity!
 
-## Pourquoi ce blog
+# Why this blog?
+This blog was born from a simple desire to document and share my learning journey. In computer science and mathematics, we often learn by testing, experimenting, and discussing with other enthusiasts.
+By writing here, I hope to:
+- Write down my explorations and findings
+- Explain concepts in a clear and accessible way
+- Share useful resources and project ideas
 
-Ce blog est né d'une envie simple de documenter et partager mon apprentissage. En informatique et en mathématique, on apprend souvent en testant, en expérimentant et en échangeant avec d'autres passionnés.
-En écrivant ici, je souhaite : 
-- Mettre par écrit mes explorations et mes trouvailles
-- Expliquer des concepts de manière claire et accessible
-- Partager des ressources utiles et des idées de projets
+Whether it is to deepen my own knowledge or help others progress, this blog is above all a space for learning and sharing.
 
-Que ce soit pour approfondir mes connaissances ou aider d'autres personnes à progresser, ce blog est avant tout un espace d’apprentissage et de partage.
+# What readers can expect? 
+On this blog, you will find content focused on:
+- Computer Science: development, data structures, algorithms...
+- Mathematics (mostly applied): optimization, graph and automata theory, and other fascinating topics
+- Operational Research: modeling (LP, ILP, MIP), heuristics, linear programming, and real-world applications
 
-## Ce que les lecteurs peuvent attendre
+I will try to provide articles and even 'mini-courses' that are clear, educational, and illustrated with concrete examples.
+I am also open to the idea of adding more personal projects combining various fields such as:
+- Artificial Intelligence (deep and machine learning)
+- Data Science
+- Quantum Physics
+- Robotics
+- Home automation / Self-hosting
 
-Sur ce blog, tu pourras retrouver du contenu axé sur :
-- Informatique : développement, structures de données, algorithmes,...
-- Mathématiques (plutôt appliquées) : optimisation, théorie des graphes et des automates, et autres sujets fascinants
-- Recherche opérationnelle : modélisation (PL, PLNE, MIP), heuristiques, programmation linéaire et applications concrètes
+English is not my first language, so I hope you will be forgiving.
 
-J'essaierai de proposer des articles voire des 'mini-cours' clairs, pédagogiques et illustrés par des exemples concrets.
-Je ne me ferme pas à l'idée d'y ajouter aussi des projets plus personnels alliant divers champs comme :
-- intelligence artificielle (deep et machine learning)
-- data science
-- physique quantique
-- robotique
-- domotique / self-hosting
 
-Si par chance j'ai le temps, j'essaierais de traduire les posts en anglais.
+# Values and approach
+In my way of writing and sharing, here is what matters to me:
+- Accessibility: Explaining concepts progressively, so everyone can follow along
+- Openness: Encouraging exchanges and discussions
+- Curiosity: Exploring various topics, sometimes advanced, but always with a learning mindset
 
-## Valeurs et approche
+If by chance one of my posts is helpful to you, I authorize the full use of my resources by any third party.
 
-Dans ma manière d'écrire et de partager, voici ce qui me tient à coeur :
-- Accessibilité : Expliquer les concepts de manière progressive, pour que chacun puisse suivre
-- Ouverture : Encourager les échanges et les discussions
-- Curiosité : Explorer des sujets variés, parfois pointus, mais toujours avec un esprit d'apprentissage
-
-Si par chance l'un de mes posts t'est utile, j'autorise l'entière utilisation de mes ressources par un tiers.
-
-## Comment me contacter ?
-
-Si tu souhaites échanger, poser une question, partager des idées ou faire des suggestions de posts, tu peux me contacter via :
+# How to contact me?
+If you want to chat, ask a question, share ideas, or make post suggestions, you can reach me via:
 - Twitter :Fame_Doze
 - Github : anto-nainFR
 - Discord : antoninfd
-
-
-# English Part
-
-
+- ORCID : 0009-0008-2680-4775
+- HAL : [HAL](https://cv.hal.science/antonin-carpentier)
 
