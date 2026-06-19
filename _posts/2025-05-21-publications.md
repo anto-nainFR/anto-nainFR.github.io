@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2025-05-21
+date: 2026-06-16
 categories: [Personal]
 tags: [personal]
 author: antonin
